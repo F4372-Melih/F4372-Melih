@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on html/css
+- 🔭 I’m currently working on react
 - 🌱 I’m currently learning web design
 - 👯 I’m looking to collaborate on slack
 - 🤔 I’m looking for help with life
